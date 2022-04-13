@@ -2,7 +2,7 @@
 
 Single command index, build and upload for the Arduboy FX. Utilities to make loading new game libraries onto the FX chip a little easier. Thanks to [Mr.Blinky](https://github.com/MrBlinky) for all the great work in putting together the [Arduboy Python Utilities](https://github.com/MrBlinky/Arduboy-Python-Utilities) that this package uses.
 
-
+This fork contains my personal flashcart compatible with SH1106 displays in the `breadboy` folder.
 ## Quick Start
 
 1. Clone the repo
