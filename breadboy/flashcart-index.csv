@@ -49,6 +49,7 @@ List;Discription;Title screen;Hex file;Data file;Save file
 4;bounce;Platform/bounce.png;Platform/bounce.hex;;
 4;hopper;Platform/hopper.png;Platform/hopper.hex;;
 5;Puzzle;Categories/Puzzle.png;;;
+5;Atomicpuzzlepack;Puzzle/Atomicpuzzlepack.png;Puzzle/Atomicpuzzlepack.hex;;
 5;Begemmed;Puzzle/Begemmed.png;Puzzle/Begemmed.hex;;
 5;Blobattack;Puzzle/Blobattack.png;Puzzle/Blobattack.hex;;
 5;CircuitDude;Puzzle/CircuitDude.png;Puzzle/CircuitDude.hex;;
@@ -101,6 +102,7 @@ List;Discription;Title screen;Hex file;Data file;Save file
 9;StellarImpact;Shooter/StellarImpact.png;Shooter/StellarImpact.hex;;
 10;Skill;Categories/Skill.png;;;
 10;KnightMove;Skill/KnightMove.png;Skill/KnightMove.hex;;
+10;NBOTK;Skill/NBOTK.png;Skill/NBOTK.hex;;
 10;Petris;Skill/Petris.png;Skill/Petris.hex;;
 10;PsiColo;Skill/PsiColo.png;Skill/PsiColo.hex;;
 10;SameGame;Skill/SameGame.png;Skill/SameGame.hex;;
