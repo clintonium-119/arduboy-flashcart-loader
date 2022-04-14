@@ -85,8 +85,10 @@ List;Discription;Title screen;Hex file;Data file;Save file
 8;HollowSeeker;Runner/HollowSeeker.png;Runner/HollowSeeker.hex;;
 8;ShadowRunner;Runner/ShadowRunner.png;Runner/ShadowRunner.hex;;
 8;Squario;Runner/Squario.png;Runner/Squario.hex;;
+8;UnicornDash;Runner/UnicornDash.png;Runner/UnicornDash.hex;;
 9;Shooter;Categories/Shooter.png;;;
 9;1944;Shooter/1944.png;Shooter/1944.hex;;
+9;1nvader;Shooter/1nvader.png;Shooter/1nvader.hex;;
 9;ArduBullets;Shooter/ArduBullets.png;Shooter/ArduBullets.hex;;
 9;Defenduino;Shooter/Defenduino.png;Shooter/Defenduino.hex;;
 9;Evade;Shooter/Evade.png;Shooter/Evade.hex;;
@@ -121,6 +123,7 @@ List;Discription;Title screen;Hex file;Data file;Save file
 12;Ardulem;Strategy/Ardulem.png;Strategy/Ardulem.hex;;
 12;Artillery;Strategy/Artillery.png;Strategy/Artillery.hex;;
 12;Cyberhack;Strategy/Cyberhack.png;Strategy/Cyberhack.hex;;
+12;Lagunita;Strategy/Lagunita.png;Strategy/Lagunita.hex;;
 12;MicroCity;Strategy/MicroCity.png;Strategy/MicroCity.hex;;
 12;MicroTowerDefense;Strategy/MicroTowerDefense.png;Strategy/MicroTowerDefense.hex;;
 13;Tabletop;Categories/Tabletop.png;;;
