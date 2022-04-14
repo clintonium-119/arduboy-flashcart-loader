@@ -14,7 +14,6 @@ List;Discription;Title screen;Hex file;Data file;Save file
 1;Trenchrun;Action/Trenchrun.png;Action/Trenchrun.hex;;
 1;ZooEscape;Action/ZooEscape.png;Action/ZooEscape.hex;;
 2;Adventure;Categories/Adventure.png;;;
-2;AMazeAdventureGame;Adventure/AMazeAdventureGame.png;Adventure/AMazeAdventureGame.hex;;
 2;ArduIndy;Adventure/ArduIndy.png;Adventure/ArduIndy.hex;;
 2;CatacombsOfTheDamned;Adventure/CatacombsOfTheDamned.png;Adventure/CatacombsOfTheDamned.hex;;
 2;Glove;Adventure/Glove.png;Adventure/Glove.hex;;
@@ -22,7 +21,6 @@ List;Discription;Title screen;Hex file;Data file;Save file
 3;Arcade;Categories/Arcade.png;;;
 3;ArduBreakout;Arcade/ArduBreakout.png;Arcade/ArduBreakout.hex;;
 3;Arduman;Arcade/Arduman.png;Arcade/Arduman.hex;;
-3;Arduwhack;Arcade/Arduwhack.png;Arcade/Arduwhack.hex;;
 3;BurgardTime;Arcade/BurgardTime.png;Arcade/BurgardTime.hex;;
 3;FirePanic;Arcade/FirePanic.png;Arcade/FirePanic.hex;;
 3;Kong;Arcade/Kong.png;Arcade/Kong.hex;;
@@ -58,6 +56,7 @@ List;Discription;Title screen;Hex file;Data file;Save file
 5;Hangman;Puzzle/Hangman.png;Puzzle/Hangman.hex;;
 5;LeWord;Puzzle/LeWord.png;Puzzle/LeWord.hex;;
 5;Logix;Puzzle/Logix.png;Puzzle/Logix.hex;;
+5;Minesweeper;Puzzle/Minesweeper.png;Puzzle/Minesweeper.hex;;
 5;PiCross;Puzzle/PiCross.png;Puzzle/PiCross.hex;;
 5;Pipes;Puzzle/Pipes.png;Puzzle/Pipes.hex;;
 5;Sensitive;Puzzle/Sensitive.png;Puzzle/Sensitive.hex;;
@@ -69,7 +68,6 @@ List;Discription;Title screen;Hex file;Data file;Save file
 6;Ardynia;RPG/Ardynia.png;RPG/Ardynia.hex;;
 6;DarkAndUnder;RPG/DarkAndUnder.png;RPG/DarkAndUnder.hex;;
 6;MiniRogue;RPG/MiniRogue.png;RPG/MiniRogue.hex;;
-6;StarHonor;RPG/StarHonor.png;RPG/StarHonor.hex;;
 6;Tacklebox;RPG/Tacklebox.png;RPG/Tacklebox.hex;;
 6;shatteredlands;RPG/shatteredlands.png;RPG/shatteredlands.hex;;
 7;Racing;Categories/Racing.png;;;
@@ -109,6 +107,7 @@ List;Discription;Title screen;Hex file;Data file;Save file
 10;StairsSweep;Skill/StairsSweep.png;Skill/StairsSweep.hex;;
 10;TheCurseOfAstarok;Skill/TheCurseOfAstarok.png;Skill/TheCurseOfAstarok.hex;;
 10;TheTrialsOfAstarok;Skill/TheTrialsOfAstarok.png;Skill/TheTrialsOfAstarok.hex;;
+10;TinyMorpion;Skill/TinyMorpion.png;Skill/TinyMorpion.hex;;
 10;Traindodge;Skill/Traindodge.png;Skill/Traindodge.hex;;
 10;tinyTris;Skill/tinyTris.png;Skill/tinyTris.hex;;
 11;Sports;Categories/Sports.png;;;
@@ -130,7 +129,6 @@ List;Discription;Title screen;Hex file;Data file;Save file
 13;Dominoes;Tabletop/Dominoes.png;Tabletop/Dominoes.hex;;
 13;Fantasy;Tabletop/Fantasy.png;Tabletop/Fantasy.hex;;
 13;Farkle;Tabletop/Farkle.png;Tabletop/Farkle.hex;;
-13;LittleRookChess;Tabletop/LittleRookChess.png;Tabletop/LittleRookChess.hex;;
 13;MicroCheckers;Tabletop/MicroCheckers.png;Tabletop/MicroCheckers.hex;;
 13;Quarto;Tabletop/Quarto.png;Tabletop/Quarto.hex;;
 13;Reversi;Tabletop/Reversi.png;Tabletop/Reversi.hex;;
