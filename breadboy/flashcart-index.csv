@@ -17,6 +17,7 @@ List;Discription;Title screen;Hex file;Data file;Save file
 2;ArduIndy;Adventure/ArduIndy.png;Adventure/ArduIndy.hex;;
 2;CatacombsOfTheDamned;Adventure/CatacombsOfTheDamned.png;Adventure/CatacombsOfTheDamned.hex;;
 2;Glove;Adventure/Glove.png;Adventure/Glove.hex;;
+2;RickArdurous;Adventure/RickArdurous.png;Adventure/RickArdurous.hex;;
 2;VirusLEP-79;Adventure/VirusLEP-79.png;Adventure/VirusLEP-79.hex;;
 3;Arcade;Categories/Arcade.png;;;
 3;ArduBreakout;Arcade/ArduBreakout.png;Arcade/ArduBreakout.hex;;
@@ -57,6 +58,7 @@ List;Discription;Title screen;Hex file;Data file;Save file
 5;Hangman;Puzzle/Hangman.png;Puzzle/Hangman.hex;;
 5;LeWord;Puzzle/LeWord.png;Puzzle/LeWord.hex;;
 5;Logix;Puzzle/Logix.png;Puzzle/Logix.hex;;
+5;LongCat;Puzzle/LongCat.png;Puzzle/LongCat.hex;;
 5;Minesweeper;Puzzle/Minesweeper.png;Puzzle/Minesweeper.hex;;
 5;PiCross;Puzzle/PiCross.png;Puzzle/PiCross.hex;;
 5;Pipes;Puzzle/Pipes.png;Puzzle/Pipes.hex;;
@@ -90,6 +92,7 @@ List;Discription;Title screen;Hex file;Data file;Save file
 9;1944;Shooter/1944.png;Shooter/1944.hex;;
 9;1nvader;Shooter/1nvader.png;Shooter/1nvader.hex;;
 9;ArduBullets;Shooter/ArduBullets.png;Shooter/ArduBullets.hex;;
+9;Asteroids;Shooter/Asteroids.png;Shooter/Asteroids.hex;;
 9;Defenduino;Shooter/Defenduino.png;Shooter/Defenduino.hex;;
 9;Evade;Shooter/Evade.png;Shooter/Evade.hex;;
 9;Evade2;Shooter/Evade2.png;Shooter/Evade2.hex;;
@@ -106,6 +109,7 @@ List;Discription;Title screen;Hex file;Data file;Save file
 10;KnightMove;Skill/KnightMove.png;Skill/KnightMove.hex;;
 10;NBOTK;Skill/NBOTK.png;Skill/NBOTK.hex;;
 10;Petris;Skill/Petris.png;Skill/Petris.hex;;
+10;PixelPortal;Skill/PixelPortal.png;Skill/PixelPortal.hex;;
 10;PsiColo;Skill/PsiColo.png;Skill/PsiColo.hex;;
 10;SameGame;Skill/SameGame.png;Skill/SameGame.hex;;
 10;StairsSweep;Skill/StairsSweep.png;Skill/StairsSweep.hex;;
