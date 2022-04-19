@@ -5,6 +5,7 @@ List;Discription;Title screen;Hex file;Data file;Save file
 1;Bomberman;Action/Bomberman.png;Action/Bomberman.hex;;
 1;ChiriBocchiCat;Action/ChiriBocchiCat.png;Action/ChiriBocchiCat.hex;;
 1;EpicCratesMassDestruction;Action/EpicCratesMassDestruction.png;Action/EpicCratesMassDestruction.hex;;
+1;Fatsche;Action/Fatsche.png;Action/Fatsche.hex;;
 1;Helii;Action/Helii.png;Action/Helii.hex;;
 1;Karateka;Action/Karateka.png;Action/Karateka.hex;;
 1;Lasers;Action/Lasers.png;Action/Lasers.hex;;
@@ -131,6 +132,7 @@ List;Discription;Title screen;Hex file;Data file;Save file
 12;Lagunita;Strategy/Lagunita.png;Strategy/Lagunita.hex;;
 12;MicroCity;Strategy/MicroCity.png;Strategy/MicroCity.hex;;
 12;MicroTowerDefense;Strategy/MicroTowerDefense.png;Strategy/MicroTowerDefense.hex;;
+12;Monpals;Strategy/Monpals.png;Strategy/Monpals.hex;;
 13;Tabletop;Categories/Tabletop.png;;;
 13;ArduChess;Tabletop/ArduChess.png;Tabletop/ArduChess.hex;;
 13;BlackJack;Tabletop/BlackJack.png;Tabletop/BlackJack.hex;;
