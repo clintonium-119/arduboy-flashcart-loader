@@ -47,6 +47,7 @@ List;Discription;Title screen;Hex file;Data file;Save file
 4;GarboylesQuest;Platform/GarboylesQuest.png;Platform/GarboylesQuest.hex;;
 4;MidnightWild;Platform/MidnightWild.png;Platform/MidnightWild.hex;;
 4;MysticBalloon;Platform/MysticBalloon.png;Platform/MysticBalloon.hex;;
+4;NotJustAHatRack;Platform/NotJustAHatRack.png;Platform/NotJustAHatRack.hex;;
 4;OmegaHorizon;Platform/OmegaHorizon.png;Platform/OmegaHorizon.hex;;
 4;SanSan;Platform/SanSan.png;Platform/SanSan.hex;;
 4;bounce;Platform/bounce.png;Platform/bounce.hex;;
