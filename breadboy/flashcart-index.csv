@@ -108,6 +108,7 @@ List;Discription;Title screen;Hex file;Data file;Save file
 9;JunoFirst;Shooter/JunoFirst.png;Shooter/JunoFirst.hex;;
 9;KemonoPatrol;Shooter/KemonoPatrol.png;Shooter/KemonoPatrol.hex;;
 9;MicroTank;Shooter/MicroTank.png;Shooter/MicroTank.hex;;
+9;OBS;Shooter/OBS.png;Shooter/OBS.hex;;
 9;Sirene;Shooter/Sirene.png;Shooter/Sirene.hex;;
 9;StellarImpact;Shooter/StellarImpact.png;Shooter/StellarImpact.hex;;
 10;Skill;Categories/Skill.png;;;
@@ -124,6 +125,7 @@ List;Discription;Title screen;Hex file;Data file;Save file
 10;TinyTris;Skill/TinyTris.png;Skill/TinyTris.hex;;
 10;Traindodge;Skill/Traindodge.png;Skill/Traindodge.hex;;
 11;Sports;Categories/Sports.png;;;
+11;ArduGolf;Sports/ArduGolf.png;Sports/ArduGolf.hex;;
 11;BorisGoesSkiing;Sports/BorisGoesSkiing.png;Sports/BorisGoesSkiing.hex;;
 11;ReverseMermaidHockey;Sports/ReverseMermaidHockey.png;Sports/ReverseMermaidHockey.hex;;
 11;SkateArdDie;Sports/SkateArdDie.png;Sports/SkateArdDie.hex;;
