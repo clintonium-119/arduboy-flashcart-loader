@@ -53,7 +53,7 @@ def main(flashcart_path):
     for idx, category in enumerate(categories):
         category_num = idx + 1
         files = (list(set(filter(lambda x: x != '.DS_Store',
-            map(lambda x: x.replace('.png', '').replace('.hex', ''),
+            map(lambda x: x.replace('.png', '').replace('.hex', '').replace('.bin', ''),
             os.listdir(os.path.join(flashcart_path, f'{category}')))))))
 
         files.sort()
@@ -68,9 +68,12 @@ def main(flashcart_path):
         for f in files:
             data['List'].append(category_num)
             data['Discription'].append(f)
-            data['Title screen'].append(f'{category}/{f}.png'),
-            data['Hex file'].append(f'{category}/{f}.hex'),
-            data['Data file'].append(None)
+            data['Title screen'].append(f'{category}/{f}.png')
+            data['Hex file'].append(f'{category}/{f}.hex')
+            if (os.path.isfile(os.path.join(flashcart_path, f'{category}/{f}.bin'))):
+                data['Data file'].append(f'{category}/{f}.bin')
+            else:
+                data['Data file'].append(None)
             data['Save file'].append(None)
 
     df = pd.DataFrame(data, columns=headers)
