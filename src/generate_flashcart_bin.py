@@ -66,14 +66,14 @@ def main(flashcart_path):
         data['Save file'].append(None)
 
         for f in files:
+            data_file_path = f'{category}/{f}.bin'
+            data_file = data_file_path if (os.path.isfile(os.path.join(flashcart_path, data_file_path))) else None
+
             data['List'].append(category_num)
             data['Discription'].append(f)
             data['Title screen'].append(f'{category}/{f}.png')
             data['Hex file'].append(f'{category}/{f}.hex')
-            if (os.path.isfile(os.path.join(flashcart_path, f'{category}/{f}.bin'))):
-                data['Data file'].append(f'{category}/{f}.bin')
-            else:
-                data['Data file'].append(None)
+            data['Data file'].append(data_file)
             data['Save file'].append(None)
 
     df = pd.DataFrame(data, columns=headers)
