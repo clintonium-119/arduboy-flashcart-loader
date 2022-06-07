@@ -125,7 +125,7 @@ List;Discription;Title screen;Hex file;Data file;Save file
 10;TinyTris;Skill/TinyTris.png;Skill/TinyTris.hex;;
 10;Traindodge;Skill/Traindodge.png;Skill/Traindodge.hex;;
 11;Sports;Categories/Sports.png;;;
-11;ArduGolf;Sports/ArduGolf.png;Sports/ArduGolf.hex;;
+11;ArduGolf;Sports/ArduGolf.png;Sports/ArduGolf.hex;Sports/ArduGolf.bin;
 11;BorisGoesSkiing;Sports/BorisGoesSkiing.png;Sports/BorisGoesSkiing.hex;;
 11;ReverseMermaidHockey;Sports/ReverseMermaidHockey.png;Sports/ReverseMermaidHockey.hex;;
 11;SkateArdDie;Sports/SkateArdDie.png;Sports/SkateArdDie.hex;;
