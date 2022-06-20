@@ -2,7 +2,7 @@ List;Discription;Title screen;Hex file;Data file;Save file
 0;Bootloader;arduboy_loader.png;;;
 1;Action;Categories/Action.png;;;
 1;Bangi;Action/Bangi.png;Action/Bangi.hex;;
-1;Bomberman;Action/Bomberman.png;Action/Bomberman.hex;;
+1;Bomberboy;Action/Bomberboy.png;Action/Bomberboy.hex;;
 1;ChiriBocchiCat;Action/ChiriBocchiCat.png;Action/ChiriBocchiCat.hex;;
 1;EpicCratesMassDestruction;Action/EpicCratesMassDestruction.png;Action/EpicCratesMassDestruction.hex;;
 1;Fatsche;Action/Fatsche.png;Action/Fatsche.hex;;
@@ -13,7 +13,6 @@ List;Discription;Title screen;Hex file;Data file;Save file
 1;Pactastic;Action/Pactastic.png;Action/Pactastic.hex;;
 1;Quadrastic;Action/Quadrastic.png;Action/Quadrastic.hex;;
 1;Siege;Action/Siege.png;Action/Siege.hex;;
-1;Trenchrun;Action/Trenchrun.png;Action/Trenchrun.hex;;
 1;ZooEscape;Action/ZooEscape.png;Action/ZooEscape.hex;;
 2;Adventure;Categories/Adventure.png;;;
 2;ArduIndy;Adventure/ArduIndy.png;Adventure/ArduIndy.hex;;
@@ -73,6 +72,7 @@ List;Discription;Title screen;Hex file;Data file;Save file
 6;Arduventure;RPG/Arduventure.png;RPG/Arduventure.hex;;
 6;Ardynia;RPG/Ardynia.png;RPG/Ardynia.hex;;
 6;DarkAndUnder;RPG/DarkAndUnder.png;RPG/DarkAndUnder.hex;;
+6;HelloCommander;RPG/HelloCommander.png;RPG/HelloCommander.hex;;
 6;MayQ;RPG/MayQ.png;RPG/MayQ.hex;;
 6;MiniRogue;RPG/MiniRogue.png;RPG/MiniRogue.hex;;
 6;Shatteredlands;RPG/Shatteredlands.png;RPG/Shatteredlands.hex;;
@@ -98,6 +98,7 @@ List;Discription;Title screen;Hex file;Data file;Save file
 9;1nvader;Shooter/1nvader.png;Shooter/1nvader.hex;;
 9;ArduBullets;Shooter/ArduBullets.png;Shooter/ArduBullets.hex;;
 9;Asteroids;Shooter/Asteroids.png;Shooter/Asteroids.hex;;
+9;DYRLove;Shooter/DYRLove.png;Shooter/DYRLove.hex;;
 9;Defenduino;Shooter/Defenduino.png;Shooter/Defenduino.hex;;
 9;Evade;Shooter/Evade.png;Shooter/Evade.hex;;
 9;Evade2;Shooter/Evade2.png;Shooter/Evade2.hex;;
@@ -107,10 +108,14 @@ List;Discription;Title screen;Hex file;Data file;Save file
 9;Jetpac;Shooter/Jetpac.png;Shooter/Jetpac.hex;;
 9;JunoFirst;Shooter/JunoFirst.png;Shooter/JunoFirst.hex;;
 9;KemonoPatrol;Shooter/KemonoPatrol.png;Shooter/KemonoPatrol.hex;;
+9;MegaMissiles;Shooter/MegaMissiles.png;Shooter/MegaMissiles.hex;;
 9;MicroTank;Shooter/MicroTank.png;Shooter/MicroTank.hex;;
 9;OBS;Shooter/OBS.png;Shooter/OBS.hex;;
+9;SFZ;Shooter/SFZ.png;Shooter/SFZ.hex;;
 9;Sirene;Shooter/Sirene.png;Shooter/Sirene.hex;;
+9;SpaceQuarth;Shooter/SpaceQuarth.png;Shooter/SpaceQuarth.hex;;
 9;StellarImpact;Shooter/StellarImpact.png;Shooter/StellarImpact.hex;;
+9;Trenchrun;Shooter/Trenchrun.png;Shooter/Trenchrun.hex;;
 10;Skill;Categories/Skill.png;;;
 10;KnightMove;Skill/KnightMove.png;Skill/KnightMove.hex;;
 10;NBOTK;Skill/NBOTK.png;Skill/NBOTK.hex;;
