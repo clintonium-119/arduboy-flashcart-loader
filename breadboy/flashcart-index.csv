@@ -19,6 +19,7 @@ List;Discription;Title screen;Hex file;Data file;Save file
 2;CatacombsOfTheDamned;Adventure/CatacombsOfTheDamned.png;Adventure/CatacombsOfTheDamned.hex;;
 2;Glove;Adventure/Glove.png;Adventure/Glove.hex;;
 2;RickArdurous;Adventure/RickArdurous.png;Adventure/RickArdurous.hex;;
+2;ShadowsAndEternity;Adventure/ShadowsAndEternity.png;Adventure/ShadowsAndEternity.hex;Adventure/ShadowsAndEternity.bin;
 2;VirusLEP-79;Adventure/VirusLEP-79.png;Adventure/VirusLEP-79.hex;;
 3;Arcade;Categories/Arcade.png;;;
 3;ArduBreakout;Arcade/ArduBreakout.png;Arcade/ArduBreakout.hex;;
@@ -50,6 +51,7 @@ List;Discription;Title screen;Hex file;Data file;Save file
 4;MysticBalloon;Platform/MysticBalloon.png;Platform/MysticBalloon.hex;;
 4;NotJustAHatRack;Platform/NotJustAHatRack.png;Platform/NotJustAHatRack.hex;;
 4;OmegaHorizon;Platform/OmegaHorizon.png;Platform/OmegaHorizon.hex;;
+4;PrinceOfPersia;Platform/PrinceOfPersia.png;Platform/PrinceOfPersia.hex;Platform/PrinceOfPersia.bin;
 4;SanSan;Platform/SanSan.png;Platform/SanSan.hex;;
 5;Puzzle;Categories/Puzzle.png;;;
 5;Atomicpuzzlepack;Puzzle/Atomicpuzzlepack.png;Puzzle/Atomicpuzzlepack.hex;;
@@ -61,6 +63,7 @@ List;Discription;Title screen;Hex file;Data file;Save file
 5;LeWord;Puzzle/LeWord.png;Puzzle/LeWord.hex;Puzzle/LeWord.bin;
 5;Logix;Puzzle/Logix.png;Puzzle/Logix.hex;;
 5;LongCat;Puzzle/LongCat.png;Puzzle/LongCat.hex;;
+5;Mastermind;Puzzle/Mastermind.png;Puzzle/Mastermind.hex;;
 5;Minesweeper;Puzzle/Minesweeper.png;Puzzle/Minesweeper.hex;;
 5;PiCross;Puzzle/PiCross.png;Puzzle/PiCross.hex;;
 5;Pipes;Puzzle/Pipes.png;Puzzle/Pipes.hex;;
@@ -68,9 +71,11 @@ List;Discription;Title screen;Hex file;Data file;Save file
 5;Sudoku;Puzzle/Sudoku.png;Puzzle/Sudoku.hex;;
 5;Whist;Puzzle/Whist.png;Puzzle/Whist.hex;;
 6;RPG;Categories/RPG.png;;;
+6;ArduRogue;RPG/ArduRogue.png;RPG/ArduRogue.hex;;
 6;Arduminer;RPG/Arduminer.png;RPG/Arduminer.hex;;
 6;Arduventure;RPG/Arduventure.png;RPG/Arduventure.hex;;
 6;Ardynia;RPG/Ardynia.png;RPG/Ardynia.hex;;
+6;Creapawn;RPG/Creapawn.png;RPG/Creapawn.hex;;
 6;DarkAndUnder;RPG/DarkAndUnder.png;RPG/DarkAndUnder.hex;;
 6;HelloCommander;RPG/HelloCommander.png;RPG/HelloCommander.hex;;
 6;MayQ;RPG/MayQ.png;RPG/MayQ.hex;;
@@ -86,6 +91,7 @@ List;Discription;Title screen;Hex file;Data file;Save file
 7;TinyBike;Racing/TinyBike.png;Racing/TinyBike.hex;;
 8;Runner;Categories/Runner.png;;;
 8;Evasion;Runner/Evasion.png;Runner/Evasion.hex;;
+8;Flappo;Runner/Flappo.png;Runner/Flappo.hex;;
 8;FlappyBall;Runner/FlappyBall.png;Runner/FlappyBall.hex;;
 8;FlappyBirdie;Runner/FlappyBirdie.png;Runner/FlappyBirdie.hex;;
 8;HollowSeeker;Runner/HollowSeeker.png;Runner/HollowSeeker.hex;;
@@ -111,6 +117,7 @@ List;Discription;Title screen;Hex file;Data file;Save file
 9;MegaMissiles;Shooter/MegaMissiles.png;Shooter/MegaMissiles.hex;;
 9;MicroTank;Shooter/MicroTank.png;Shooter/MicroTank.hex;;
 9;OBS;Shooter/OBS.png;Shooter/OBS.hex;;
+9;OmegaChase;Shooter/OmegaChase.png;Shooter/OmegaChase.hex;;
 9;SFZ;Shooter/SFZ.png;Shooter/SFZ.hex;;
 9;Sirene;Shooter/Sirene.png;Shooter/Sirene.hex;;
 9;SpaceQuarth;Shooter/SpaceQuarth.png;Shooter/SpaceQuarth.hex;;
