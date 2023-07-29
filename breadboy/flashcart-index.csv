@@ -6,6 +6,7 @@ List;Discription;Title screen;Hex file;Data file;Save file
 1;ChiriBocchiCat;Action/ChiriBocchiCat.png;Action/ChiriBocchiCat.hex;;
 1;EpicCratesMassDestruction;Action/EpicCratesMassDestruction.png;Action/EpicCratesMassDestruction.hex;;
 1;Fatsche;Action/Fatsche.png;Action/Fatsche.hex;;
+1;FestiveFight;Action/FestiveFight.png;Action/FestiveFight.hex;;
 1;Helii;Action/Helii.png;Action/Helii.hex;;
 1;Karateka;Action/Karateka.png;Action/Karateka.hex;;
 1;Lasers;Action/Lasers.png;Action/Lasers.hex;;
@@ -60,6 +61,7 @@ List;Discription;Title screen;Hex file;Data file;Save file
 5;CircuitDude;Puzzle/CircuitDude.png;Puzzle/CircuitDude.hex;;
 5;DarkStar;Puzzle/DarkStar.png;Puzzle/DarkStar.hex;;
 5;Hangman;Puzzle/Hangman.png;Puzzle/Hangman.hex;;
+5;KPAQuest;Puzzle/KPAQuest.png;Puzzle/KPAQuest.hex;;
 5;LeWord;Puzzle/LeWord.png;Puzzle/LeWord.hex;Puzzle/LeWord.bin;
 5;Logix;Puzzle/Logix.png;Puzzle/Logix.hex;;
 5;LongCat;Puzzle/LongCat.png;Puzzle/LongCat.hex;;
@@ -93,7 +95,6 @@ List;Discription;Title screen;Hex file;Data file;Save file
 8;Evasion;Runner/Evasion.png;Runner/Evasion.hex;;
 8;Flappo;Runner/Flappo.png;Runner/Flappo.hex;;
 8;FlappyBall;Runner/FlappyBall.png;Runner/FlappyBall.hex;;
-8;FlappyBirdie;Runner/FlappyBirdie.png;Runner/FlappyBirdie.hex;;
 8;HollowSeeker;Runner/HollowSeeker.png;Runner/HollowSeeker.hex;;
 8;ShadowRunner;Runner/ShadowRunner.png;Runner/ShadowRunner.hex;;
 8;Squario;Runner/Squario.png;Runner/Squario.hex;;

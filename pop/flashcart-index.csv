@@ -1,0 +1,3 @@
+List;Discription;Title screen;Hex file;Data file;Save file
+0;Bootloader;arduboy_loader.png;;;
+1;PrinceOfPersia;Platform/PrinceOfPersia.png;Platform/PrinceOfPersia.hex;Platform/PrinceOfPersia.bin;
