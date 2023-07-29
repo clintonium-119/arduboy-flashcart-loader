@@ -1,3 +1,5 @@
 List;Discription;Title screen;Hex file;Data file;Save file
 0;Bootloader;arduboy_loader.png;;;
-1;PrinceOfPersia;Platform/PrinceOfPersia.png;Platform/PrinceOfPersia.hex;Platform/PrinceOfPersia.bin;
+1;Platform;Categories/Platform.png;;;
+1;ArduGray;Platform/ArduGray.png;Platform/ArduGray.hex;;
+1;PrinceOfArabia.ino-arduboy-promicro-alt-sh1106;Platform/PrinceOfArabia.ino-arduboy-promicro-alt-sh1106.png;Platform/PrinceOfArabia.ino-arduboy-promicro-alt-sh1106.hex;Platform/PrinceOfArabia.ino-arduboy-promicro-alt-sh1106.bin;
